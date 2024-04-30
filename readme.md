@@ -5,6 +5,11 @@
 
 
 ## Setup
+- change directory into bayes_app folder
+```zsh
+# change ... to your specific path to folder
+cd .../bayes_app
+```
 - create virtual environment
 ```zsh
 python3 -m venv venv
@@ -20,11 +25,6 @@ pip install -r requirments.txt
 
 
 ## Run App
-- change directory into bayes_app folder
-```zsh
-# change ... to your specific path to folder
-cd .../bayes_app
-```
 - run app as a package
 ```zsh
 python3 -m app.main
