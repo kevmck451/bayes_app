@@ -5,10 +5,15 @@
 
 
 ## Setup
+
+- clone git repo
+
+```zsh
+git clone git@github.com:kevmck451/bayes_app.git
+```
 - change directory into bayes_app folder
 ```zsh
-# change ... to your specific path to folder
-cd .../bayes_app
+cd bayes_app/
 ```
 - create virtual environment
 ```zsh
