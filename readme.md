@@ -16,7 +16,7 @@ cd bayes_app/
 ```
 - create virtual environment
 ```zsh
-python3 -m venv venv
+python3 -m venv --system-site-packages venv
 ```
 - activate environment
 ```zsh
