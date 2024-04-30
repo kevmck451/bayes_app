@@ -24,7 +24,7 @@ source venv/bin/activate
 ```
 - install necessary libraries
 ```zsh
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 
 
