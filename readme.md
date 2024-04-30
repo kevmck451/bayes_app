@@ -5,9 +5,8 @@
 
 
 ## Setup
-
+- open terminal and move to desired folder location
 - clone git repo
-
 ```zsh
 git clone git@github.com:kevmck451/bayes_app.git
 ```
