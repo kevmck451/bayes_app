@@ -34,10 +34,10 @@ pip install -r requirements.txt
 python3 -m app.main
 ```
 
-![App Demo 1](docs/app_demo_1.jpg)
+![App Demo 1](media/app_demo_1.jpg)
 
-![App Demo 2](docs/app_demo_2.jpg)
+![App Demo 2](media/app_demo_2.jpg)
 
-![App Demo 3](docs/app_demo_3.jpg)
+![App Demo 3](media/app_demo_3.jpg)
 
-![App Demo 4](docs/app_demo_4.jpg)
+![App Demo 4](media/app_demo_4.jpg)
